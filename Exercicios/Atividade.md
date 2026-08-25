@@ -1904,15 +1904,15 @@ Antes de avançar para a próxima aula, verifique se você consegue explicar:
 
 * [x] O que significa **`L ⊆ Σ*`**;
 
-* [ ] O que é uma **gramática formal**;
+* [x] O que é uma **gramática formal**;
 
-* [ ] O que são **terminais e não terminais**;
+* [x] O que são **terminais e não terminais**;
 
-* [ ] O que é uma **regra de produção**;
+* [x] O que é uma **regra de produção**;
 
-* [ ] Como ler **`S → aS | ε`**;
+* [x] Como ler **`S → aS | ε`**;
 
-* [ ] Como gerar palavras usando uma gramática.
+* [x] Como gerar palavras usando uma gramática.
 
 
 
