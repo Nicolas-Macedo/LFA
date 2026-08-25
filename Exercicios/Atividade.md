@@ -1884,25 +1884,25 @@ Antes de avançar para a próxima aula, verifique se você consegue explicar:
 
 
 
-* [ ] O que é um **alfabeto `Σ`**;
+* [x] O que é um **alfabeto `Σ`**;
 
-* [ ] O que é uma **cadeia**;
+* [x] O que é uma **cadeia**;
 
-* [ ] O que significa **`ε`**;
+* [x] O que significa **`ε`**;
 
-* [ ] Por que **`|ε| = 0`**;
+* [x] Por que **`|ε| = 0`**;
 
-* [ ] O que é um **prefixo**;
+* [x] O que é um **prefixo**;
 
-* [ ] O que é um **sufixo**;
+* [x] O que é um **sufixo**;
 
-* [ ] O que significa **`Σ*`**;
+* [x] O que significa **`Σ*`**;
 
-* [ ] Se `Σ*` possui limite de tamanho;
+* [x] Se `Σ*` possui limite de tamanho;
 
-* [ ] O que é uma **linguagem formal `L`**;
+* [x] O que é uma **linguagem formal `L`**;
 
-* [ ] O que significa **`L ⊆ Σ*`**;
+* [x] O que significa **`L ⊆ Σ*`**;
 
 * [ ] O que é uma **gramática formal**;
 
